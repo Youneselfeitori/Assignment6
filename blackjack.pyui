@@ -1,0 +1,285 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 80}, {111, 161}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_1_label",
+          "uuid" : "61AF0278-CB1E-48ED-B86A-810BD1628412"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{375.5, 80}, {111, 161}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_2_label",
+          "uuid" : "61AF0278-CB1E-48ED-B86A-810BD1628412"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{537, 80}, {111, 161}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_3_label",
+          "uuid" : "61AF0278-CB1E-48ED-B86A-810BD1628412"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{375.5, 419}, {111, 161}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "touched",
+          "alpha" : 0.099999999999999978,
+          "flex" : "",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "57392083-B1DF-42AC-AB52-3944156EDD39",
+          "class" : "Button",
+          "name" : "player_button_2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{375.5, 419}, {111, 161}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "player_card_2_label",
+          "uuid" : "61AF0278-CB1E-48ED-B86A-810BD1628412"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{669, 492}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "player_total_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1AFC7DCA-1F12-4A3F-8A86-F26D875E8385",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{537, 419}, {111, 161}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "player_card_3_label",
+          "uuid" : "61AF0278-CB1E-48ED-B86A-810BD1628412"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-175, 363}, {111, 161}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "touched",
+          "alpha" : 0.10000000000000001,
+          "flex" : "",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "57392083-B1DF-42AC-AB52-3944156EDD39",
+          "class" : "Button",
+          "name" : "player_card_1_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{375.5, 419}, {111, 161}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "touched",
+          "alpha" : 0.10000000000000001,
+          "flex" : "",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "57392083-B1DF-42AC-AB52-3944156EDD39",
+          "class" : "Button",
+          "name" : "player_card_2_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{537, 419}, {111, 161}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "touched",
+          "alpha" : 0.10000000000000001,
+          "flex" : "",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "57392083-B1DF-42AC-AB52-3944156EDD39",
+          "class" : "Button",
+          "name" : "player_card_3_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 316}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "touched",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "32BB02DE-C144-4473-A3B5-1B65EA0311FF",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "check_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{354, 316}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "A3DC5FE7-C45A-48BF-B69F-08260CF7C8E6",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "output_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{669, 150}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1AFC7DCA-1F12-4A3F-8A86-F26D875E8385",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "computer_total_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 419}, {111, 161}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "player_card_1_label",
+          "uuid" : "61AF0278-CB1E-48ED-B86A-810BD1628412"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{207, 419}, {111, 161}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "touched",
+          "alpha" : 0.10000000000000001,
+          "flex" : "",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "57392083-B1DF-42AC-AB52-3944156EDD39",
+          "class" : "Button",
+          "name" : "player_card_1_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{18, 18}, {801, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "title_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "D4F56B8E-2EBC-4EC6-9FE5-DBCC2FF63C8D",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Welcome to a game of blackjack! Select the cards by tapping on them or go for a check!",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
